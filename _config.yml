@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+title: [Fixed-Dictionary Baseline]
+description: [A baseline algorithm for MRI Compressive Sensing.]
